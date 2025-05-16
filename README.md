@@ -1,7 +1,7 @@
 # fake_news_prediction_ml
 This model predicts whether a news is fake or real using Logistic Regression model.
 
-##Features
+## Features
 - Text preprocessing with stemming and stopword removal
 - TF-IDF vectorizer for feature extraction
 - Logistic Regression for classification
